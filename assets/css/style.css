@@ -37,7 +37,7 @@ h2{
 #div1{
     background-image: url("../Imagesfile/image\ 1.png");
     background-position: 100%;
-    background-size: contain;
+    background-size: cover;
     height: 100vh;
     width: 100%;
     display: flex;
