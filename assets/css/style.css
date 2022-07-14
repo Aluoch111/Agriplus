@@ -1,0 +1,107 @@
+*{
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    font-weight: 700;
+    font-size: large;
+    display: inline;
+    color: white;
+    margin-right: 120px;
+}
+h1{
+    font-size: larger;
+}
+img{
+    float: right;
+}
+li{
+    display: inline;
+    color: white;
+    font-size: small;
+}
+ul{
+    background-color: black;
+    padding: 20px;
+}
+button{
+    background-color: rgb(255, 94, 0);
+    border-color: rgb(255, 94, 0);
+    padding: 10px;
+    margin-left: 50px;
+}
+h2{
+    font-size: small;
+    border-bottom-right-radius: 6px solid orange;
+}
+#div1{
+    background-image: url("../Imagesfile/image\ 1.png");
+    background-position: 100%;
+    background-size: contain;
+  }
+#explore{
+    padding: 20px;
+}
+#div2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 10px 10px lightgrey;
+}
+#text{
+    text-align: center;
+}
+#popular{
+    display: flex;
+    justify-content: space-around;
+}
+#h6{
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+    font-size: xx-small;
+}
+#em{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    font-size: xx-small;  
+}
+h5{
+    float: right;
+}
+.feedback{
+    display: flex;
+    justify-content: space-around;
+}#one{
+    box-shadow: 5px 5px rgb(228, 225, 225);
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+#two{
+    color: white;
+    background-color: black;
+  
+}
+#info{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+em{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    padding-right: 0px;
+}
+table,
+th,
+td{
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 50px;
+    text-align: left;
+}
+
